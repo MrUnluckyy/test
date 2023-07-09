@@ -5,8 +5,11 @@ import styles from "./CountryList.module.css";
 
 import CountryItem from "./CountryItem";
 import Message from "./Message";
+import { useCities } from "../contexts/CityContext";
 
-const CountryList = ({ cities, isLoading }) => {
+const CountryList = () => {
+  const { cities, isLoading } = useCities();
+
   const countries = cities.reduce((arr, city) => {
     if (!arr.find((el) => el.country === city.country)) {
       return [...arr, { country: city.country, emoji: city.emoji }];

@@ -1,40 +1,88 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "Tallinn",
+      "country": "Estonia",
+      "emoji": "🇪🇪",
+      "date": "2023-07-09T11:23:21.390Z",
+      "notes": "Cool oldtown 🏰 But quite expensive 💸",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": "59.46740794183739",
+        "lng": "24.719238281250004"
       },
-      "id": 73930385
+      "id": 98443198
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Riga",
+      "country": "Latvia",
+      "emoji": "🇱🇻",
+      "date": "2023-07-09T11:32:54.486Z",
+      "notes": "Very similar to Lihuania, but the old town is a bit more western-like compared to Vilnius 🎊. It is slightly more expensive 💰. Oh, and roads outside the old town are terrible. 😔",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "56.946472258070806",
+        "lng": "24.107093811035156"
       },
-      "id": 17806751
+      "id": 98443199
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Copenhagen",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2023-07-09T11:37:39.048Z",
+      "notes": "One of the favourites from what I've seen so far. 👌 ",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "55.677584411089526",
+        "lng": "12.579345703125002"
       },
-      "id": 98443197
+      "id": 98443200
+    },
+    {
+      "cityName": "Greater London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-07-09T11:49:25.035Z",
+      "notes": "Very busy city. 🧑‍💼👩‍💼 Business orientated. But it has loads of activities for tourists 🎡",
+      "position": {
+        "lat": "51.50874245880335",
+        "lng": "-0.12634277343750003"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Oslo",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2023-07-09T11:51:31.610Z",
+      "notes": "Very beautiful. Obviously expensive services 🤑. Very expensive services. But it has many spots that must be visited. And the landscape is amazing! 🌅🌄",
+      "position": {
+        "lat": "59.913729826873684",
+        "lng": "10.744628906250002"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-09T12:03:09.794Z",
+      "notes": "Romantic, as we all know.",
+      "position": {
+        "lat": "48.85387273165656",
+        "lng": "2.3428344726562504"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Coventry",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-07-09T12:55:29.645Z",
+      "notes": "Studied and lived there. ☠️🎉",
+      "position": {
+        "lat": "52.40577019043",
+        "lng": "-1.5065002441406252"
+      },
+      "id": 98443205
     }
   ]
 }
