@@ -89,7 +89,7 @@ function Form() {
     };
 
     getCityData();
-  }, [lat, lng]);
+  }, [lat, lng, isNewCity]);
 
   if (isLoadingGeo) return <Spinner />;
 
